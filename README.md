@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 <h1>Hi 👋, I'm Abella</h1>
-<img align="right"alt="coding"width="500"src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right"alt="coding"width="450"src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p>A passionate frontend developer from Philippines</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
